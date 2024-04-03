@@ -23,7 +23,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 ### **<ins>Where I'm From</ins>:**
 
-🌎 I have lived in several locales during my life, including having been a [Zonian](https://www.relofirm.com/blog/what-is-a-zonian-navigating-the-cultural-crossroads-of-the-canal-zone/) when I was a young child.  We immigrated from a small, rural town (Gamboa) to the United States in mid-1989 in direct response to the violence that erupted from Manuel Noriega being successful with his autocoup when he refused to accept Panama's election results.
+🌎 I have lived in several locales during my life, including having been a [Zonian](https://www.relofirm.com/blog/what-is-a-zonian-navigating-the-cultural-crossroads-of-the-canal-zone/) when I was a young child.  We immigrated from a small, rural town (Gamboa) to the United States in mid-1989 in direct response to the violence that erupted from Manuel Noriega being successful with his autocoup when he refused to accept Panama's presidential election results.
 
 I currently live in the southeastern farmland of the Puget Sound Area of Washington state (Pierce County).
 
@@ -33,10 +33,10 @@ I currently live in the southeastern farmland of the Puget Sound Area of Washing
 
 ### **<ins>Hobbies</ins>:**
 
-⚔️  In addition to a love of animals and artistic endeavors, the hobby I am most passionate about is HEMA.  I am a scholar level student in [The 1595. Club](https://www.the1595club.com/) historical fencing group, currently learning directly from the founder (Chris Chatfield) via Zoom but with occassional in-person learning from the Washington chapter inside of [Lonin League](https://www.lonin.org/) in Seattle.  In 2023, I also joined the [Society for Creative Anachronism (SCA)](https://www.sca.org/new-to-the-sca/) and have been participating in weekly archery practice with a recurve bow.  I am amongst the members hoping to expand the study of cut-and-thrust fencing within the SCA. Lastly of note amongst my hobbies, I enjoy playing D&D with groups in Tacoma and Gig Harbor.
+⚔️  In addition to a love of animals and artistic endeavors, the hobby I am most passionate about is HEMA.  I am a scholar level student in [The 1595. Club](https://www.the1595club.com/) historical fencing group, currently learning directly from the founder (Chris Chatfield) via Zoom but with occassional in-person learning from the Washington chapter inside of [Lonin League](https://www.lonin.org/) in Seattle.  In 2023, I also joined the [Society for Creative Anachronism (SCA)](https://www.sca.org/new-to-the-sca/) and have been participating in their weekly archery practice with a recurve bow.  I am amongst the participants hoping to expand the study of cut-and-thrust fencing within the SCA. Lastly of note amongst my hobbies, I enjoy playing D&D with groups in Tacoma and Gig Harbor.
 
 <br>
 
 It is a pleasure to meet you!  I hope you enjoy looking thru this portfolio of my coding journey!
 
-## 👩🏼‍💻
+## <font size="50">👩🏼‍💻</font>
