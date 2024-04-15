@@ -21,9 +21,18 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MyraReeves/MyraReeves/main/label_training.jpg" />
+</p>
+
 ![Code Fellows certificate](Cert_CF2.jpg) ![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg) ![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)
 
 <br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MyraReeves/MyraReeves/main/label_background.jpg" />
+</p>
+
 
 ### **<ins>Where I'm From</ins>:**
 
