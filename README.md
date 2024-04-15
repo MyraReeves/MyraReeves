@@ -21,6 +21,10 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 <br>
 
+![Code Fellows certificate](Cert_CF2.jpg)
+
+<br>
+
 ### **<ins>Where I'm From</ins>:**
 
 🌎 I have lived in several locales during my life, including having been a [Zonian](https://www.relofirm.com/blog/what-is-a-zonian-navigating-the-cultural-crossroads-of-the-canal-zone/) when I was a young child.  We immigrated from a small, rural town (Gamboa) to the United States in mid-1989 in direct response to the violence that erupted from Manuel Noriega being successful with his autocoup when he refused to accept Panama's election results.
