@@ -21,7 +21,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 <br>
 
-![Code Fellows certificate](Cert_CF2.jpg)
+![Code Fellows certificate](Cert_CF2.jpg) ![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg) ![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)
 
 <br>
 
