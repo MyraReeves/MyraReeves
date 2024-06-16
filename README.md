@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone! My name is Myra.  It is spelled phonetically for American English.  As a result, one handy mnemonic is that it's as if you are saying "My (Egyptian sun god)!" 🌞
+Hello everyone! My name is Myra.  It is spelled phonetically for American English.  As a result, one handy mnemonic is that it's as if you are saying "My [Egyptian sun god]!" 𓁛𓇳 🌞
 
 <br>
 
