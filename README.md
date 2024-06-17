@@ -17,7 +17,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyraReeves&Layout=compact)](https://github.com/MyraReeves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyraReeves&Layout=compact&exclude_repo=TechAcademy_Notes)](https://github.com/MyraReeves/github-readme-stats)
 
 <br>
 
