@@ -21,9 +21,9 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MyraReeves/MyraReeves/main/label_training.jpg" />
-</p>
+&nbsp;
+
+![Training](https://img.shields.io/badge/........................................................&nbsp;Training&nbsp;........................................................-800080?style=for-the-badge&logoColor=white)
 
 ![Code Fellows certificate](Cert_CF2.jpg) ![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg) ![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)
 
@@ -31,9 +31,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 &nbsp;
 
-<hr>
-
-![About Me](https://img.shields.io/badge/............................&nbsp;About&nbsp;Me&nbsp;............................-800080?style=for-the-badge&logoColor=white)
+![About Me](https://img.shields.io/badge/........................................................&nbsp;About&nbsp;Me&nbsp;........................................................-800080?style=for-the-badge&logoColor=white)
 
 ### **<ins>Where I'm From</ins>:**
 
@@ -53,4 +51,4 @@ I currently live in the southeastern farmland of the Puget Sound Area of Washing
 
 It is a pleasure to meet you!  I hope you enjoy looking thru my GitHub portfolio of my coding journey!
 
-## <font size="50">👩🏼‍💻</font>    [![Resume](https://img.shields.io/badge/Resume-8b008b?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://docs.google.com/document/d/10mU8tV7r_pBGccTjOUyGSsX2hK0ZcfM98_w-D0Nxsq8/edit?usp=sharing)       [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myra-reeves/)      [![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:4myrareeves@gmail.com)      [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MyraReeves)
+## <font size="50">👩🏼‍💻</font>    [![Resume](https://img.shields.io/badge/Resume-8b008b?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/10mU8tV7r_pBGccTjOUyGSsX2hK0ZcfM98_w-D0Nxsq8/edit?usp=sharing)       [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myra-reeves/)      [![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:4myrareeves@gmail.com)      [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MyraReeves)
