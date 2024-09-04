@@ -33,7 +33,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
  ![Redux](https://img.shields.io/badge/Redux-fff0f5?style=for-the-badge&logo=Redux&logoColor=764ABC)
  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=0047ab)
  ![MongoDB](https://img.shields.io/badge/mongodb-644117?style=for-the-badge&logo=mongodb&logoColor=#47A248)
- ![VS-Code](https://custom-icon-badges.demolab.com/badge/VS_Code-004f98.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+ ![VS-Code](https://custom-icon-badges.demolab.com/badge/VS_Code-f0f8ff.svg?style=for-the-badge&logo=Visual-Studio-Code)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-69359c?style=for-the-badge&logo=Bootstrap&logoColor=white)
  ![Django](https://img.shields.io/badge/Django-006b3c?style=for-the-badge&logo=Django&logoColor=white)
