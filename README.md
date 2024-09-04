@@ -29,10 +29,11 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MyraReeves/MyraReeves/main/label_background.jpg" />
-</p>
+&nbsp;
 
+<hr>
+
+![About Me](https://img.shields.io/badge/About&nbsp;Me-800080?style=for-the-badge&logo=read-the-docs&logoColor=white)
 
 ### **<ins>Where I'm From</ins>:**
 
