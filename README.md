@@ -27,10 +27,18 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 ![Code Fellows certificate](Cert_CF2.jpg) ![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg) ![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)
 
-### Additional Experience
+### Experience Using
 
-![react](https://img.shields.io/badge/React-f4f0ec?style=for-the-badge&logo=react&logoColor=0a7e8c) ![Redux](https://img.shields.io/badge/Redux-fff0f5?style=for-the-badge&logo=Redux&logoColor=764ABC) ![VS-Code](https://img.shields.io/badge/VS_Code-004f98?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-69359c?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-006b3c?style=for-the-badge&logo=Django&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-![Apple](https://img.shields.io/badge/MacBook_Pro-000000?style=for-the-badge&logo=apple&logoColor=silver)
+![react](https://img.shields.io/badge/React-f5deb3?style=for-the-badge&logo=react&logoColor=0a7e8c)
+ ![Redux](https://img.shields.io/badge/Redux-fff0f5?style=for-the-badge&logo=Redux&logoColor=764ABC)
+ ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=0047ab)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-644117?style=for-the-badge&logo=MongoDB&logoColor=#47A248)
+ ![VS-Code](https://img.shields.io/badge/VS_Code-004f98?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-69359c?style=for-the-badge&logo=Bootstrap&logoColor=white)
+ ![Django](https://img.shields.io/badge/Django-006b3c?style=for-the-badge&logo=Django&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Apple](https://img.shields.io/badge/MacBook_Pro-c0c0c0?style=for-the-badge&logo=apple&logoColor=000000)
 
 <br>
 
