@@ -23,15 +23,20 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 &nbsp;
 
-![Training](https://img.shields.io/badge/........................................................&nbsp;Training&nbsp;........................................................-800080?style=for-the-badge&logoColor=white)
+![Training](https://img.shields.io/badge/........................................................&nbsp;_Training_&nbsp;........................................................-800080?style=for-the-badge&logoColor=white)
 
 ![Code Fellows certificate](Cert_CF2.jpg) ![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg) ![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)
+
+### Additional Experience
+
+![react](https://img.shields.io/badge/React-f4f0ec?style=for-the-badge&logo=react&logoColor=0a7e8c) ![Redux](https://img.shields.io/badge/Redux-fff0f5?style=for-the-badge&logo=Redux&logoColor=764ABC) ![VS-Code](https://img.shields.io/badge/VS_Code-004f98?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-69359c?style=for-the-badge&logo=Bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-006b3c?style=for-the-badge&logo=Django&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Apple](https://img.shields.io/badge/MacBook_Pro-000000?style=for-the-badge&logo=apple&logoColor=silver)
 
 <br>
 
 &nbsp;
 
-![About Me](https://img.shields.io/badge/........................................................&nbsp;About&nbsp;Me&nbsp;........................................................-800080?style=for-the-badge&logoColor=white)
+![About Me](https://img.shields.io/badge/........................................................&nbsp;_About_Me_&nbsp;........................................................-800080?style=for-the-badge&logoColor=white)
 
 ### **<ins>Where I'm From</ins>:**
 
