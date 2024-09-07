@@ -27,7 +27,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 ![Code Fellows certificate](Cert_CF2.jpg) ![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg) ![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)
 
-### Experience Using
+### Experience Using:
 
 ![react](https://img.shields.io/badge/React-f5deb3?style=for-the-badge&logo=react&logoColor=0a7e8c)
  ![Redux](https://img.shields.io/badge/Redux-fff0f5?style=for-the-badge&logo=Redux&logoColor=764ABC)
@@ -52,7 +52,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 I currently live in the southeastern farmland of the Puget Sound Area of Washington state (Pierce County).
 
-🐾 I am transitioning into the tech world from a unique previous career.  Starting as a teenager, I spent decades working professionally with wild animals, in a variety of field and zoological settings.  The work involved a huge range of species (and even a few domesticated animals!) but the ones I ended up working the most with were marine mammals and birds of prey.
+🐾 I am transitioning into the tech world from a unique previous career!  Starting as a teenager, I spent decades working professionally with wild animals, in a variety of field and zoological settings.  The work involved a huge range of species (and even a few domesticated animals!) but the ones I ended up working the most with were marine mammals and birds of prey.
 
 🚌 In December 2017, however, life circumstances forced me into a job in public transportation. My personal experience of the height of the COVID-19 pandemic was driving buses thru the eerily deserted streets of downtown Seattle, similar to what was shown in [the Rolling Stones music video](https://www.youtube.com/watch?v=LNNPNweSbp8). During my time as a transit operator, I personally transported tech workers on a variety of bus routes within King County.  It is appealing to imagine being on the other side of that scenario soon in my future!  I am excited about this life change to a career in tech!  As a lifelong learner and adventurer, I have always been interested in the diversity aspects of technology, as well as the language aspect of coding.  As a coding student, I have been finding that my perseverance and adaptability skills are well-suited to the task.  As the child of an artist, I have also always appreciated the creativity and innovation that technology fosters!
 
@@ -64,4 +64,4 @@ I currently live in the southeastern farmland of the Puget Sound Area of Washing
 
 It is a pleasure to meet you!  I hope you enjoy looking thru my GitHub portfolio of my coding journey!
 
-## <font size="50">👩🏼‍💻</font>    [![Resume](https://img.shields.io/badge/Resume-8b008b?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/10mU8tV7r_pBGccTjOUyGSsX2hK0ZcfM98_w-D0Nxsq8/edit?usp=sharing)       [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myra-reeves/)      [![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:4myrareeves@gmail.com)      [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MyraReeves)
+## <font size="50">👩🏼‍💻</font>    [![Resume](https://img.shields.io/badge/Resume-8b008b?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/10mU8tV7r_pBGccTjOUyGSsX2hK0ZcfM98_w-D0Nxsq8/edit?usp=sharing)       [![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myra-reeves/)      [![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:4myrareeves@gmail.com)      [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MyraReeves?tab=repositories)
