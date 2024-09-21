@@ -37,8 +37,8 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-69359c?style=for-the-badge&logo=Bootstrap&logoColor=white)
  ![Django](https://img.shields.io/badge/Django-006b3c?style=for-the-badge&logo=Django&logoColor=white)
-  ![Windows](https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-  ![Apple](https://img.shields.io/badge/MacBook_Pro-c0c0c0?style=for-the-badge&logo=apple&logoColor=000000)
+  ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+  ![Apple](https://img.shields.io/badge/macOS-c0c0c0?style=for-the-badge&logo=apple&logoColor=000000)
 
 <br>
 
