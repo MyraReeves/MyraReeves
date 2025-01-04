@@ -25,7 +25,7 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 ![Training](https://img.shields.io/badge/........................................................&nbsp;_Training_&nbsp;........................................................-800080?style=for-the-badge&logoColor=white)
 
-![Code Fellows certificate](Cert_CF2.jpg) ![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg) ![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)
+[![Code Fellows certificate](Cert_CF2.jpg)](https://photos.app.goo.gl/Uk1modfEf94zub2L9) [![OneCodeCamp frontend certificate](Cert_OCC_Front.jpg)](https://photos.google.com/album/AF1QipN5nV5rARVXVCUsK8YZmx60P3txbblv5NtSR27C/photo/AF1QipOfttfO-qv8HKCHei8TuqiiUQEgPyEvm6f346qv) [![OneCodeCamp backend certificate](Cert_OCC-Back.jpg)](https://photos.google.com/album/AF1QipN5nV5rARVXVCUsK8YZmx60P3txbblv5NtSR27C/photo/AF1QipOSjTN4NffPBZMn4BPN3CHs7dBD03SEliIkJ3_5)
 
 ### Experience Using:
 
