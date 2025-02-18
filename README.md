@@ -29,7 +29,8 @@ Hello everyone! My name is Myra.  It is spelled phonetically for American Englis
 
 ### Experience Using:
 
-![react](https://img.shields.io/badge/React-f5deb3?style=for-the-badge&logo=react&logoColor=0a7e8c)
+![React](https://img.shields.io/badge/React-f5deb3?style=for-the-badge&logo=react&logoColor=0a7e8c)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFDB00)
  ![Redux](https://img.shields.io/badge/Redux-fff0f5?style=for-the-badge&logo=Redux&logoColor=764ABC)
  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=0047ab)
  ![MongoDB](https://img.shields.io/badge/mongodb-644117?style=for-the-badge&logo=mongodb&logoColor=#47A248)
